@@ -1,0 +1,17 @@
+{
+    "contents" : "## CodeBook\n\n###Data Fields in tidy.txt.\n\n###Identifiers\n\n    subject - The ID of the test subject\n    activity - The type of activity performed when the corresponding measurements were taken\n\n###Measurements\n\n    tBodyAccMeanX\n    tBodyAccMeanY\n    tBodyAccMeanZ\n    tBodyAccStdX\n    tBodyAccStdY\n    tBodyAccStdZ\n    tGravityAccMeanX\n    tGravityAccMeanY\n    tGravityAccMeanZ\n    tGravityAccStdX\n    tGravityAccStdY\n    tGravityAccStdZ\n    tBodyAccJerkMeanX\n    tBodyAccJerkMeanY\n    tBodyAccJerkMeanZ\n    tBodyAccJerkStdX\n    tBodyAccJerkStdY\n    tBodyAccJerkStdZ\n    tBodyGyroMeanX\n    tBodyGyroMeanY\n    tBodyGyroMeanZ\n    tBodyGyroStdX\n    tBodyGyroStdY\n    tBodyGyroStdZ\n    tBodyGyroJerkMeanX\n    tBodyGyroJerkMeanY\n    tBodyGyroJerkMeanZ\n    tBodyGyroJerkStdX\n    tBodyGyroJerkStdY\n    tBodyGyroJerkStdZ\n    tBodyAccMagMean\n    tBodyAccMagStd\n    tGravityAccMagMean\n    tGravityAccMagStd\n    tBodyAccJerkMagMean\n    tBodyAccJerkMagStd\n    tBodyGyroMagMean\n    tBodyGyroMagStd\n    tBodyGyroJerkMagMean\n    tBodyGyroJerkMagStd\n    fBodyAccMeanX\n    fBodyAccMeanY\n    fBodyAccMeanZ\n    fBodyAccStdX\n    fBodyAccStdY\n    fBodyAccStdZ\n    fBodyAccMeanFreqX\n    fBodyAccMeanFreqY\n    fBodyAccMeanFreqZ\n    fBodyAccJerkMeanX\n    fBodyAccJerkMeanY\n    fBodyAccJerkMeanZ\n    fBodyAccJerkStdX\n    fBodyAccJerkStdY\n    fBodyAccJerkStdZ\n    fBodyAccJerkMeanFreqX\n    fBodyAccJerkMeanFreqY\n    fBodyAccJerkMeanFreqZ\n    fBodyGyroMeanX\n    fBodyGyroMeanY\n    fBodyGyroMeanZ\n    fBodyGyroStdX\n    fBodyGyroStdY\n    fBodyGyroStdZ\n    fBodyGyroMeanFreqX\n    fBodyGyroMeanFreqY\n    fBodyGyroMeanFreqZ\n    fBodyAccMagMean\n    fBodyAccMagStd\n    fBodyAccMagMeanFreq\n    fBodyBodyAccJerkMagMean\n    fBodyBodyAccJerkMagStd\n    fBodyBodyAccJerkMagMeanFreq\n    fBodyBodyGyroMagMean\n    fBodyBodyGyroMagStd\n    fBodyBodyGyroMagMeanFreq\n    fBodyBodyGyroJerkMagMean\n    fBodyBodyGyroJerkMagStd\n    fBodyBodyGyroJerkMagMeanFreq\n\n###Activity Labels\n\n    WALKING (value 1): \n    WALKING_UPSTAIRS \n    WALKING_DOWNSTAIRS \n    SITTING \n    STANDING \n    LAYING\n",
+    "created" : 1445771994270.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "929519266",
+    "id" : "38FF7F6E",
+    "lastKnownWriteTime" : 1445771987,
+    "path" : "~/DATA ANALYTICS/Course3Assignment/CodeBook.md",
+    "project_path" : "CodeBook.md",
+    "properties" : {
+    },
+    "relative_order" : 11,
+    "source_on_save" : false,
+    "type" : "markdown"
+}

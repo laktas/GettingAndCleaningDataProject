@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1445576031966.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "67F74830",
+    "lastKnownWriteTime" : 21392300099829876,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "niggd5qs9p",
+        "caption" : "data_mean_and_std",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=data_mean_and_std&cache_key=niggd5qs9p",
+        "displayedObservations" : "10299",
+        "environment" : "",
+        "object" : "data_mean_and_std",
+        "totalObservations" : "10299",
+        "variables" : "81"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
